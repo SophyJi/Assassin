@@ -1,0 +1,25 @@
+Assesement 3: AssassinManager Reflection
+
+1) What did you learn from working on this 
+assignment?
+how to use method to change and move the number in the list 
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+How to put the died people in the killring to the front of the graveyard
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+I can create my own code to play the killer game.
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+No.
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+About seven hours.
